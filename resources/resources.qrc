@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/cascade">
+        <file alias="frontalface.xml">resources/haarcascade_frontalface_alt2.xml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="face.jpg">resources/face.jpg</file>
+        <file alias="fsw.jpg">resources/face_sw.jpg</file>
+    </qresource>
+</RCC>
